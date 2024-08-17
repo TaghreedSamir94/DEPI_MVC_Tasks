@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\MVCTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D30DCA30-20BA-4A6A-A124-3132D54DA864}|..\\PresentationLayer\\PresentationLayer.csproj|d:\\vs repo c#\\depi_mvc_tasks\\task2\\presentationlayer\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30DCA30-20BA-4A6A-A124-3132D54DA864}|..\\PresentationLayer\\PresentationLayer.csproj|d:\\vs repo c#\\depi_mvc_tasks\\task2\\presentationlayer\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99B336-65DF-4319-BA53-28A26DDBA1E0}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\vs repo c#\\depi_mvc_tasks\\task2\\dataaccesslayer\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F544AB91-DE47-4238-AF34-C85EB22E20EE}|..\\BussinessLayer\\BussinessLayer.csproj|d:\\vs repo c#\\depi_mvc_tasks\\task2\\bussinesslayer\\services\\studentblservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30DCA30-20BA-4A6A-A124-3132D54DA864}|..\\PresentationLayer\\PresentationLayer.csproj|d:\\vs repo c#\\depi_mvc_tasks\\task2\\presentationlayer\\actionrequests\\createstudentactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30DCA30-20BA-4A6A-A124-3132D54DA864}|..\\PresentationLayer\\PresentationLayer.csproj|d:\\vs repo c#\\depi_mvc_tasks\\task2\\presentationlayer\\views\\student\\allstudentslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:52:09.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentBLServices.cs",
+              "DocumentMoniker": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\BussinessLayer\\Services\\StudentBLServices.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\Services\\StudentBLServices.cs",
+              "ToolTip": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\BussinessLayer\\Services\\StudentBLServices.cs",
+              "RelativeToolTip": "..\\BussinessLayer\\Services\\StudentBLServices.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:44:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\PresentationLayer\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "..\\PresentationLayer\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:37:13.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStudentActionRequest.cs",
+              "DocumentMoniker": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\ActionRequests\\CreateStudentActionRequest.cs",
+              "RelativeDocumentMoniker": "..\\PresentationLayer\\ActionRequests\\CreateStudentActionRequest.cs",
+              "ToolTip": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\ActionRequests\\CreateStudentActionRequest.cs",
+              "RelativeToolTip": "..\\PresentationLayer\\ActionRequests\\CreateStudentActionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:22:08.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllStudentsList.cshtml",
+              "DocumentMoniker": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\Views\\Student\\AllStudentsList.cshtml",
+              "RelativeDocumentMoniker": "..\\PresentationLayer\\Views\\Student\\AllStudentsList.cshtml",
+              "ToolTip": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\Views\\Student\\AllStudentsList.cshtml",
+              "RelativeToolTip": "..\\PresentationLayer\\Views\\Student\\AllStudentsList.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:05:27.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\PresentationLayer\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\VS REPO C#\\DEPI_MVC_Tasks\\Task2\\PresentationLayer\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\PresentationLayer\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwFgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:38:38.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

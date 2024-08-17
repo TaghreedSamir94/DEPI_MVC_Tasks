@@ -1,0 +1,11 @@
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\VS REPO C#\DEPI_MVC_Tasks\Task2\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
